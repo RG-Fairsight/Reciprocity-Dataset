@@ -41,7 +41,7 @@ In the sample, every compliance posting expected business/finance fluency as a c
 | `verification` | Full-text fetched or Excerpt verified |
 | `source_url` | Link to the posting |
 
-[**See the full data dictionary and methodology →**]([METHODOLOGY.md](https://github.com/RG-Fairsight/Reciprocity-Dataset/commit/76d0767fa29f7ba8cb919b9d8fd914d3c9409e3)
+[**See the full data dictionary and methodology →**][METHODOLOGY.md](https://github.com/RG-Fairsight/Reciprocity-Dataset/commit/76d0767fa29f7ba8cb919b9d8fd914d3c9409e3)
 
 ## The decisive coding rule
 
