@@ -41,7 +41,7 @@ In the sample, every compliance posting expected business/finance fluency as a c
 | `verification` | Full-text fetched or Excerpt verified |
 | `source_url` | Link to the posting |
 
-[**See the full data dictionary and methodology →**][METHODOLOGY.md](https://github.com/RG-Fairsight/Reciprocity-Dataset/commit/76d0767fa29f7ba8cb919b9d8fd914d3c9409e3)
+[**See the full data dictionary and methodology →**]
 
 ## The decisive coding rule
 
@@ -65,8 +65,8 @@ Any role, any function, any level. You submit the link; I code it. The form has 
 ## Citation
 
 > *The Reciprocity Dataset.* Version 1, May 30 2026. Available at https://github.com/RG-Fairsight/Reciprocity-Dataset/blob/main/jd_reciprocity_dataset.csv
->
-> # Methodology & Limitations
+
+# Methodology & Limitations
 
 ## Research question
 
