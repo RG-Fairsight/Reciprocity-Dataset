@@ -66,7 +66,7 @@ Any role, any function, any level. You submit the link; I code it. The form has 
 
 ## Citation
 
-> *The Reciprocity Dataset.* Version [x], [date]. Available at [GitHub repo URL].
+> *The Reciprocity Dataset.* Version [1], [May 30 2026]. Available at [GitHub repo URL].
 
 ---
 
