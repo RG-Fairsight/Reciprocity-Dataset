@@ -66,7 +66,7 @@ Any role, any function, any level. You submit the link; I code it. The form has 
 
 ## Citation
 
-> *The Reciprocity Dataset.* Version 1, May 30 2026. Available at (https://github.com/RG-Fairsight/Reciprocity-Dataset/blob/main/jd_reciprocity_dataset.csv)
+> *The Reciprocity Dataset.* Version 1, May 30 2026. Available at https://github.com/RG-Fairsight/Reciprocity-Dataset/blob/main/jd_reciprocity_dataset.csv
 
 ---
 
