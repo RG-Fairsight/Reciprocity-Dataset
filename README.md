@@ -41,7 +41,7 @@ In the sample, every compliance posting expected business/finance fluency as a c
 | `verification` | Full-text fetched or Excerpt verified |
 | `source_url` | Link to the posting |
 
-[**See the full data dictionary and methodology →**]
+*See the full data dictionary and methodology* at the end of this document.
 
 ## The decisive coding rule
 
