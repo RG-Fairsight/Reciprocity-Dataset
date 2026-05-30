@@ -60,13 +60,13 @@ A posting that says "ensure adherence to FDA/OIG" or "partner with Legal/Complia
 
 ## How to contribute
 
-**Submit a job description →[Airtable](https://airtable.com/appYwQWIEYoQiYes2/paguChgYUENzDCDYr/form)**
+**Submit a job description → [Airtable](https://airtable.com/appYwQWIEYoQiYes2/paguChgYUENzDCDYr/form)**
 
 Any role, any function, any level. You submit the link; I code it. The form has all the instructions.
 
 ## Citation
 
-> *The Reciprocity Dataset.* Version [1], [May 30 2026]. Available at [GitHub repo URL].
+> *The Reciprocity Dataset.* Version 1, May 30 2026. Available at (https://github.com/RG-Fairsight/Reciprocity-Dataset/blob/main/jd_reciprocity_dataset.csv)
 
 ---
 
