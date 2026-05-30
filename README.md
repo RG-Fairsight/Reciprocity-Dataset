@@ -28,8 +28,6 @@ In the sample, every compliance posting expected business/finance fluency as a c
 
 ## Files
 
-## Files
-
 - `jd_reciprocity_dataset.csv` — the coded dataset
 - `JD_reciprocity_analysis.xlsx` — same data with methodology & limitations tabs
 
